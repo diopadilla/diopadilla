@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dionis Padilla. You can call me Pads
-- 📫 How to reach me: ...
+- 📫 How to reach me: email: dapadilla@mapua.edu.ph, padilladionis@gmail.com
 <!--
 **diopadilla/diopadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
